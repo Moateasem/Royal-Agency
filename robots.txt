@@ -2,4 +2,4 @@ User-agent: *
 Disallow: 
 
 
-Sitemap: https://www.royalagency.000webhostapp.com/sitemap.xml
+Sitemap:https://www.https://moateasem.github.io/Royal-Agency//sitemap.xml
