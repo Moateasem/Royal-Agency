@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+
+Sitemap: https://www.royalagency.000webhostapp.com/sitemap.xml
